@@ -8,7 +8,7 @@ This project is an implementation of use of Tree data structure for data storage
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/Sudh-mandhare/AudioBook-Management-System-using-Trees)
+  git clone [https://link-to-project](https://github.com/Ujjwal/AudioBook-Management-System-using-Trees)
 ```
 
 Go to the project directory
